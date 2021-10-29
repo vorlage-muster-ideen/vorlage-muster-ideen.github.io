@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://vorlage-muster-ideen.github.io/sitemap.xml
